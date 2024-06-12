@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+
+  height: 400px !important;
+  width: 100%;
+  align-items: start;
+  padding-left: 30px;
+  padding-top: 20px;
+
+  margin-top: -240px;
+}
+h1 {
+  display: flex;
+  align-items: start;
+}
+.toggle {
+  margin-left: 600px;
+}

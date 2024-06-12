@@ -1,0 +1,23 @@
+.container {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+}
+.form {
+  margin-top: 10px;
+}
+input {
+  height: 40px;
+  width: 350px;
+  padding: 15px;
+}
+ul li {
+  list-style: none;
+  padding: 10px;
+}
+.submit {
+  margin: 5px;
+}
+.edit-btn {
+  margin: 5px;
+}
